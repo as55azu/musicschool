@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-    background-image: url("../bg_6.png");
+    background-image: url(../bg_6.png);
     font-size: 16px;
     font-family: 'arial', 'Hiragino Sans', 'Meiryo', sans-serif;
     color: #333333;
